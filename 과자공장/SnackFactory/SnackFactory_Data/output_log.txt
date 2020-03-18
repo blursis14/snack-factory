@@ -1,0 +1,83 @@
+Initialize engine version: 5.3.6f1 (29055738eb78)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.204 seconds
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\blurs\Downloads\과자공장\SnackFactory\SnackFactory_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.395700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 37e8 -> priority: 1 
+  Thread -> id: 61f8 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'CenterMan') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.693900 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 0.338100 ms (FindLiveObjects: 0.048200 ms CreateObjectMapping: 0.031400 ms MarkObjects: 0.249500 ms  DeleteObjects: 0.008400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.420200 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.532600 ms (FindLiveObjects: 0.015300 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.172200 ms  DeleteObjects: 0.327100 ms)
+
+The referenced script on this Behaviour (Game Object 'CenterMan') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.506600 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 0.372600 ms (FindLiveObjects: 0.055900 ms CreateObjectMapping: 0.024700 ms MarkObjects: 0.282700 ms  DeleteObjects: 0.008900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+InvalidOperationException: No elements in source list
+  at System.Linq.Enumerable.Aggregate[GameObject] (IEnumerable`1 source, System.Func`3 func) [0x00000] in <filename unknown>:0 
+  at PickAtLeft.findNearestItem () [0x00000] in <filename unknown>:0 
+  at PickAtLeft.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: No elements in source list
+  at System.Linq.Enumerable.Aggregate[GameObject] (IEnumerable`1 source, System.Func`3 func) [0x00000] in <filename unknown>:0 
+  at PickAtCenter.findNearestItem () [0x00000] in <filename unknown>:0 
+  at PickAtCenter.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: No elements in source list
+  at System.Linq.Enumerable.Aggregate[GameObject] (IEnumerable`1 source, System.Func`3 func) [0x00000] in <filename unknown>:0 
+  at PickAtRight.findNearestItem () [0x00000] in <filename unknown>:0 
+  at PickAtRight.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.664400 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.559100 ms (FindLiveObjects: 0.016400 ms CreateObjectMapping: 0.016700 ms MarkObjects: 0.170200 ms  DeleteObjects: 0.355100 ms)
+
